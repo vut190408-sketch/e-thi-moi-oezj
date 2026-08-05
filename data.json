@@ -1,0 +1,48 @@
+{
+  "Đề thi mới": {
+    "version": "2.0",
+    "sections": [
+      {
+        "id": "sec_1785897720528_1",
+        "title": "Phần I"
+      }
+    ],
+    "materials": [],
+    "questions": [
+      {
+        "id": "q_regex_1785897720527_jq682",
+        "section_id": "sec_1785897720528_1",
+        "material_id": null,
+        "type": "multiple_choice",
+        "order": 1,
+        "question": "Nhằm tăng cường sức mạnh quân sự để đối phó với cuộc xâm lược của nhà Minh cuối thế kỉ XIV, Hồ Quý Ly đã tiến hành",
+        "options": {
+          "A": "cải cách văn hoá, xã hội, giáo dụ",
+          "B": "buộc vua Trần nhường ngôi cho mình.",
+          "C": "xây dựng toà thành Tây Đô kiên cố.",
+          "D": "ban hành chính sách hạn điền, hạn nô."
+        },
+        "correct_answers": [
+          "C"
+        ]
+      },
+      {
+        "id": "q_regex_1785897720528_ua21y",
+        "section_id": "sec_1785897720528_1",
+        "material_id": null,
+        "type": "multiple_choice",
+        "order": 2,
+        "question": "Năm 1400, Hồ Quý Ly buộc vua Trần nhường ngôi và lập ra triều đại",
+        "options": {
+          "A": "nhà Lê sơ.",
+          "B": "nhà Nguyễn.",
+          "C": "nhà Hồ.",
+          "D": "nhà Lý."
+        },
+        "correct_answers": [
+          "C"
+        ]
+      }
+    ]
+  }
+}
