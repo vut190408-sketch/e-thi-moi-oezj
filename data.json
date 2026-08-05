@@ -1,17 +1,12 @@
 {
   "Đề thi mới": {
     "version": "2.0",
-    "sections": [
-      {
-        "id": "sec_1785897720528_1",
-        "title": "Phần I"
-      }
-    ],
+    "sections": [],
     "materials": [],
     "questions": [
       {
         "id": "q_regex_1785897720527_jq682",
-        "section_id": "sec_1785897720528_1",
+        "section_id": null,
         "material_id": null,
         "type": "multiple_choice",
         "order": 1,
@@ -28,7 +23,7 @@
       },
       {
         "id": "q_regex_1785897720528_ua21y",
-        "section_id": "sec_1785897720528_1",
+        "section_id": null,
         "material_id": null,
         "type": "multiple_choice",
         "order": 2,
